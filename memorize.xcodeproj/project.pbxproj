@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		322D62AC28B4BA9400E7768E /* WelcomeViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 322D62AB28B4BA9400E7768E /* WelcomeViewController.swift */; };
 		3246471E28B37D3900E70A59 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3246471D28B37D3900E70A59 /* AppDelegate.swift */; };
 		3246472028B37D3900E70A59 /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3246471F28B37D3900E70A59 /* SceneDelegate.swift */; };
 		3246472228B37D3900E70A59 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3246472128B37D3900E70A59 /* ViewController.swift */; };
@@ -18,6 +19,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		322D62AB28B4BA9400E7768E /* WelcomeViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = WelcomeViewController.swift; sourceTree = "<group>"; };
 		3246471A28B37D3900E70A59 /* memorize.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = memorize.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		3246471D28B37D3900E70A59 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		3246471F28B37D3900E70A59 /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
@@ -44,6 +46,7 @@
 		3246471128B37D3900E70A59 = {
 			isa = PBXGroup;
 			children = (
+				322D62AB28B4BA9400E7768E /* WelcomeViewController.swift */,
 				3246471C28B37D3900E70A59 /* memorize */,
 				3246471B28B37D3900E70A59 /* Products */,
 			);
@@ -147,6 +150,7 @@
 				3246472228B37D3900E70A59 /* ViewController.swift in Sources */,
 				3246471E28B37D3900E70A59 /* AppDelegate.swift in Sources */,
 				3246472028B37D3900E70A59 /* SceneDelegate.swift in Sources */,
+				322D62AC28B4BA9400E7768E /* WelcomeViewController.swift in Sources */,
 				3246473228B37DFA00E70A59 /* CardCell.swift in Sources */,
 				3246473428B37F9200E70A59 /* CardModel.swift in Sources */,
 			);
