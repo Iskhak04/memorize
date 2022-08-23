@@ -46,7 +46,6 @@
 		3246471128B37D3900E70A59 = {
 			isa = PBXGroup;
 			children = (
-				322D62AB28B4BA9400E7768E /* WelcomeViewController.swift */,
 				3246471C28B37D3900E70A59 /* memorize */,
 				3246471B28B37D3900E70A59 /* Products */,
 			);
@@ -64,6 +63,7 @@
 			isa = PBXGroup;
 			children = (
 				3246471D28B37D3900E70A59 /* AppDelegate.swift */,
+				322D62AB28B4BA9400E7768E /* WelcomeViewController.swift */,
 				3246471F28B37D3900E70A59 /* SceneDelegate.swift */,
 				3246472128B37D3900E70A59 /* ViewController.swift */,
 				3246472328B37D3900E70A59 /* Main.storyboard */,
